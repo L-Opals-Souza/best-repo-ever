@@ -1,3 +1,4 @@
 # best-repo-ever
 this is my personal test account with GitHub
 This is a test location that I am trying to figure out. I am learning how to makes changes in Github and apply them within the orginization. I don't know if Im doing this right but Im trying everything I can in my power to figure this out. I am enjoying the challenge and am looking forward to finally putting the skills Im learning to work for the better of our society as a whole. I want to be a productive and supportive person in the salesforce environment while maintaining my sanity and focusing on growth not only for myself but for the organization I am working for. This is an exciting time to be alive.
+This is the new addition under the new branch to test conflicting commits let's see if this really works.
